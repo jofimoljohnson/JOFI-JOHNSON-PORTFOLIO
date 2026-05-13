@@ -174,7 +174,7 @@
 
 
 import React from "react";
-import contactImg from "../assets/contact.png";
+import contactImg from "../assets/contacts.png";
 import emailjs from "@emailjs/browser";
 
 const Contact = ({ darkMode }) => {
