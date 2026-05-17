@@ -377,8 +377,8 @@ const Skills = ({ darkMode }) => {
               color: darkMode ? "#d1d5db" : "#4b5563",
             }}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Totam corporis maxime veritatis.
+            {/* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Totam corporis maxime veritatis. */}
           </p>
         </div>
 
