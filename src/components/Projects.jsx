@@ -428,6 +428,7 @@ const Projects = ({ darkMode }) => {
         "Open AI",
         "Redux toolkit",
         "Cloudinary",
+        "Razor Pay"
       ],
       github: "https://github.com/jofimoljohnson/MERN-AI-LMS",
       demo: "https://mern-ai-lms.vercel.app",
@@ -476,9 +477,7 @@ const Projects = ({ darkMode }) => {
         "React JS",
         "Axios",
         "Material-UI",
-        "React-router-dom",
         "CSS",
-        "React Router",
       ],
       github: "https://github.com/jofimoljohnson/YOUTUBE-CLONE-PROJECT",
       demo: "https://youtube-clone-omega-flax.vercel.app",

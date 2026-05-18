@@ -163,13 +163,13 @@ const Hero = ({ darkMode }) => {
               animate-bounce opacity-90 z-10 "
               /> */}
 
-              <img
+              {/* <img
                 src={hi}
                 alt="Hi icon"
                 className="absolute -top-4 sm:top-4 left-18
                 sm:left-35 w-14 h-14 sm:w-20 sm:h-20 object-contain
                 animate-bounce opacity-90 z-10"
-              />
+              /> */}
             </div>
           </div>
         </div>
